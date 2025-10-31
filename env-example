@@ -1,0 +1,17 @@
+PORT=9000
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD= 
+DB_PORT=3306
+DB_NAME=infomedia
+
+# JWT
+SECRET_JWT=supersecretjwtkey123
+SECRET_REFRESH_JWT=freshsecretjwtkey765
+
+# MAIL
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_USERNAME=
+MAIL_PASSWORD=
+MAIL_FROM=no-reply@example.com
